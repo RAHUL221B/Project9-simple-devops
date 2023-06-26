@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, We will help in your jouney to get fit </h1>
+   <h1> Thankyou, This is for ansible and jenkins automation </h1>
 
   
 </form>
